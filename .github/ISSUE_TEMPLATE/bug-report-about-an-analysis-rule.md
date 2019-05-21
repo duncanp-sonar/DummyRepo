@@ -10,3 +10,5 @@ assignees: ''
 Please do not raise issues about analysis rules in this repo.
 
 The C#/VB.NET rules have their own repo. Please raise the issue at https://github.com/SonarSource/sonar-dotnet/issues
+
+Thank you.

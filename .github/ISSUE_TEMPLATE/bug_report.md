@@ -1,9 +1,10 @@
 ---
 name: Bug report
-about: Create a report to help us improve
+about: 'Create a report to help us improve. NOTE: bugs about rules should be created
+  in the C#/VB repo at https://github.com/SonarSource/sonar-dotnet/issues'
 title: ''
 labels: ''
-assignees: ''
+assignees: duncanp-sonar
 
 ---
 

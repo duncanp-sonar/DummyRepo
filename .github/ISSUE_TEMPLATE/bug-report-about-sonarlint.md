@@ -2,8 +2,8 @@
 name: Bug report about SonarLint
 about: Create a report to help us improve.
 title: ''
-labels: ''
-assignees: duncanp-sonar
+labels: 'Type: Bug'
+assignees: ''
 
 ---
 
